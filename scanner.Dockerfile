@@ -1,4 +1,4 @@
-from python:3.8-slim
+from python:3.13.0b2-slim
 
 COPY . /tmp/src
 
